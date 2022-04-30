@@ -1,0 +1,9 @@
+[submodule "ism-layers"]
+	path = ism-layers
+	url = https://github.com/JakubesP/ism-layers
+[submodule "ism-transactions-service"]
+	path = ism-transactions-service
+	url = https://github.com/JakubesP/ism-transactions-service
+[submodule "ism-client-service"]
+	path = ism-client-service
+	url = https://github.com/JakubesP/ism-client-service
