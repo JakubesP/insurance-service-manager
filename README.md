@@ -10,6 +10,12 @@ The implementation of the project consists of three components:
 
 The services are integrated with each other using SNS. Each of them also has its own HTTP API.
 
+### Cloning
+
+```
+git clone --recurse-submodules https://github.com/JakubesP/insurance-service-manager
+```
+
 ### Launching
 
 Each component can be deployed using the `sls deploy` command.
